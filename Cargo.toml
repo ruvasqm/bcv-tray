@@ -1,0 +1,28 @@
+[package]
+name = "bcv-tray"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tao = "0.33.0"
+tray-icon = "0.20.1"
+image = "0.24"
+
+rusqlite = { version = "0.29", features = [
+  "bundled",
+] } # Bundled for easier setup
+imageproc = "0.23"
+rusttype = "0.9"
+dirs = "5.0" # For finding home directory
+chrono = "0.4" # For timestamp handling (primarily in Python script, but can be useful)
+
+# Optional: Only needed if using the macOS redraw workaround explicitly
+#[target.'cfg(target_os = "macos")'.dependencies]
+#objc2-core-foundation = "0.1"
+
+[profile.release]
+strip = true      # Automatically strip symbols from the binary.
+opt-level = "z"   # Optimize for size.
+lto = true
+codegen-units = 1
+panic = "abort"   # Abort on panic

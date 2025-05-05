@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="339.51501"
+   height="339.51501"
+   viewBox="0 0 10.18545 10.185451"
+   fill="none"
+   version="1.1"
+   id="svg2794"
+   sodipodi:docname="bitcoin.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2798">
+    <filter
+       id="mask-powermask-path-effect4679_inverse"
+       inkscape:label="filtermask-powermask-path-effect4679"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect4679_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect4679_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect7625_inverse"
+       inkscape:label="filtermask-powermask-path-effect7625"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect7625_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect7625_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2796"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.75625"
+     inkscape:cx="219.50413"
+     inkscape:cy="270.41322"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2794" />
+  <g
+     id="g4573"
+     transform="matrix(0.71068943,0,0,0.63019592,-3.0319861,-1.8401058)"
+     clip-path="none"
+     mask="none"
+     inkscape:label="g4573">
+    <rect
+       style="fill:#ffff00;stroke-width:0.0303015"
+       id="rect4422"
+       width="12.053926"
+       height="5.4000001"
+       x="5.3894629"
+       y="2.9198866" />
+    <rect
+       style="fill:#0000ff;stroke-width:0.0303015"
+       id="rect4422-3"
+       width="12.053926"
+       height="5.4000001"
+       x="5.4094524"
+       y="8.3223324" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.0303015"
+       id="rect4422-6"
+       width="12.053926"
+       height="5.4000001"
+       x="5.4209194"
+       y="13.682259" />
+    <rect
+       style="fill:#f2f2f2;stroke-width:0.0329201"
+       id="rect4516"
+       width="19.475983"
+       height="0.54000002"
+       x="2.2620087"
+       y="11.73"
+       transform="translate(-0.56784558,-0.99892735)" />
+  </g>
+  <path
+     d="m 6.6177252,6.7629998 c -0.27,1.0900002 -2.1,0.5000002 -2.7,0.3500002 l 0.48,-1.9300002 c 0.6,0.15 2.5,0.44 2.22,1.58 z m -1.56,-4.21997 -0.44,1.74997 c 0.5,0.12 2.03,0.63 2.28,-0.36 0.2500001,-1.02997 -1.34,-1.26997 -1.84,-1.38997 z m 7.7999998,4.47997 C 11.787725,11.303 7.4477253,13.913 3.1577252,12.853 c -4.28,-1.07 -6.9,-5.41 -5.83,-9.6900002 1.07,-4.28997 5.41,-6.8899701 9.7,-5.8299701 4.2799998,1.0700001 6.8999998,5.4100001 5.8299998,9.6899701 z m -10.3899998,-0.59 c -0.04,0.11 -0.15,0.27 -0.4,0.21 -0.04,0 -0.64,-0.16 -0.64,-0.16 L 0.98772519,7.483 2.1277252,7.763 c 0.22,0.06 0.42,0.11 0.63,0.17 l -0.36,1.45 0.87,0.22 0.36,-1.44 c 0.24,0.07 0.47,0.12 0.7,0.18 l -0.36,1.43 0.88,0.22 0.36,-1.45 c 1.5,0.28 2.6300001,0.17 3.1000001,-1.19 0.38,-1.0900002 -0.02,-1.7200002 -0.81,-2.1300002 0.57,-0.13 1,-0.51 1.12,-1.29 0.16,-1.05997 -0.65,-1.63997 -1.7600001,-2.00997 l 0.3600001,-1.45000003 -0.8800001,-0.22 -0.35,1.40000003 c -0.23,-0.06 -0.47,-0.11 -0.71,-0.17 l 0.35,-1.41000003 -0.87,-0.22 -0.36,1.44000003 c -0.19,-0.04 -0.38,-0.09 -0.56,-0.13 l -1.21,-0.31000003 -0.23,0.94000003 c 0,0 0.64,0.15 0.64,0.16 0.35,0.09 0.41,0.32 0.41,0.51 l -0.99,3.94997 z"
+     fill="#000000"
+     id="path2792"
+     style="display:inline;fill:#ffffff"
+     inkscape:label="path2792"
+     clip-path="none"
+     mask="none" />
+</svg>
